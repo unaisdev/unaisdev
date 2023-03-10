@@ -12,35 +12,21 @@ I'm currently focused on learning new technologies like **NextJS** and **Expo** 
   
 ## 🤓 Macrolist
 
-#### 👨‍💻 Programming Languages
-    Java ☕
-    JavaScript 🌐
-   
-#### 🔥 Frameworks
-    Android 📲
-    SpringBoot 
-    CodeIgniter 
-    NextJS ⏭️
-    Expo 📲
-    
-#### 🛢️ Databases
-    MongoDB 
-    PostgreSQL 🐘
-    
-#### 🎨 Frontend Libraries
-    Bootstrap 🎓
-    Tailwind 
-    
-#### ☁️ Cloud Computing
-    AWS ☁
+  A list of technologies I have used sometime, somewhere, somehow...
 
-  
-  
-  
-  
+| Category | Technologies |
+| -------- | ----------- |
+| Programming Languages | Java ☕, JavaScript 🌐 |
+| Frameworks | Android 📲, SpringBoot, CodeIgniter, NextJS ⏭️, Expo 📲 |
+| Databases | MongoDB, PostgreSQL 🐘 |
+| Frontend Libraries | Bootstrap 🎓, Tailwind |
+| Cloud Computing | AWS ☁ |
+
   
 console.log("bye!")
 
+  🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽
+  
 </div>
 
 
