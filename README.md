@@ -7,10 +7,12 @@
 ## console.log("Hallo! 👋")
 Passionated **mobile>web developer** and technology in general. I love to learn new things and work on interesting projects.
 
-## 🌱 Current focus
+
+## console.log("Current focus 🌱 ")
+ 
 I'm currently focused on learning new technologies like **NextJS** and **Expo** for expanding my skills. I'm working, currently, on a front, back and mobile applications.
   
-## 🤓 Macrolist
+## console.log("Macrolist 🤓 ")  
 
   A list of technologies I have used sometime, somewhere, somehow...
 
