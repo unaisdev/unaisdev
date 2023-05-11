@@ -5,12 +5,12 @@
   
   
 ## Hallo! 👋
-Passionated **mobile>web developer** and technology in general. I love to learn new things and work on interesting projects.
+Passionated **mobile and web developer** (technologys in general). I love to learn new things and work on interesting projects.
 
 
 ## Current focus 🌱
  
-I'm focused on learning new technologies and looking for a job. I'm working on **NextJS** and **Expo** for expanding my skills.
+I'm focused on learning new technologies and looking for a job. I'm working right now on **NextJS** and **Expo** for expanding my skills. I'm always open to discover new ways for solving a problem!
   
 
   
