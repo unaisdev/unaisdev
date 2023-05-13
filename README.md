@@ -5,13 +5,12 @@
   
   
 ## Hallo! 👋
-Passionated **mobile and web developer**. I love to learn new things and work on interesting projects.
+Passionated **mobile and web developer**. Love to learn new skills and work on interesting projects.
 
 
 ## Current focus 🌱
  
-I'm focused on learning new technologies and looking for a job. I'm working right now on **NextJS** and **Expo** for expanding my skills. I'm always open to discover new ways for solving a problem!
-  
+I'm focused on learning new technologies and looking for a job, working right now on **NextJS** and **Expo** for expanding my skills.  
 
   
 console.log("bye!")
