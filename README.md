@@ -10,9 +10,9 @@ Passionated **mobile and web developer**. Love to learn new skills and work on i
 
 ## Current focus 🌱
  
-I'm focused on learning new technologies and looking for a job, working right now on **NextJS** and **Expo** for expanding my skills.  
+Working right now on **NextJS** and **Expo**.  
 
-  
+
 console.log("bye!")
 
   🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽
