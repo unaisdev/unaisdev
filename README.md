@@ -10,8 +10,10 @@ Passionated **mobile and web developer**. Love to learn new skills and work on i
 
 ## Current focus 🌱
  
-Working right now on **NextJS** and **Expo**.  
+Improving my skills on **React.js**, **TypeScript**, **Node.js** and **mobile development** with **React Native**.
 
+
+E-mail: unaicanales@gmail.com
 
 console.log("bye!")
 
