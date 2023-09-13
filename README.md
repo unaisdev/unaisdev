@@ -5,12 +5,12 @@
   
   
 ## Hallo! 👋
-Passionated **mobile and web developer**. Love to learn new skills and work on interesting projects.
+Passionated **React Native developer**. Love to learn new skills and work on interesting projects.
 
 
 ## Current focus 🌱
  
-Improving my skills on **mobile development** with **React Native**, **TypeScript**. **Next.js**, **React.js** and **Node.js**.
+Improving my skills on **mobile development** with **React Native** and **TypeScript**. Taking a look on **Expo**, **Next.js**, and **Astro**.
 
 
 E-mail: unaicanales@gmail.com
