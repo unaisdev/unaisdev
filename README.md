@@ -17,6 +17,8 @@ E-mail: unaicanales@gmail.com
 
 console.log("bye!")
 
+[![unaisdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=unaisdev)](https://github.com/anuraghazra/github-readme-stats)
+
   🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽
   
 </div>
